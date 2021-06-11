@@ -5,7 +5,7 @@ I'll be a first year [computer science](https://www.cs.purdue.edu/) student at P
 - 🏠 I’m currently living in Virginia, USA
 - 🌱 I’m currently learning about [something]
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 📫 How to contact me: Use any of the badge below
+- 📫 How to contact me: Use any of the badges below - I should reply! 
 
 <h2 align="center">📡 Accounts</h2>
 
@@ -57,7 +57,7 @@ I'll be a first year [computer science](https://www.cs.purdue.edu/) student at P
   </a>
   <!-- Language stats --->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblueness&layout=compact&count_private=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblueness&layout=compact&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <br>
   <!-- Visits badge --->
