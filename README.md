@@ -23,7 +23,7 @@ I'll be a first year [computer science](https://www.cs.purdue.edu/) student at P
     <img alt="instagram" src="https://img.shields.io/badge/-instagram-C13584?style=flat-square&logo=instagram&logoColor=white">
   </a> 
   <!-- Linkedin badge --->
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-oppenheimer/" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a> 
   <!-- Twitter badge --->
