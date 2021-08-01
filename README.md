@@ -11,7 +11,7 @@ I'll be a first year [computer science](https://www.cs.purdue.edu/) student at P
 
 <p align="center">
   <!-- GitHub badge --->
-  <a href="https://github.com/theblueness" target="_blank">
+  <a href="https://github.com/jonathanoppenheimer" target="_blank">
     <img alt="github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=Plex&logoColor=white">
   </a> 
   <!-- Outlook badge --->
@@ -53,28 +53,28 @@ I'll be a first year [computer science](https://www.cs.purdue.edu/) student at P
 <p align="center">
   <!-- User stats badge --->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=theblueness&count_private=true&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=jonathanoppenheimer&count_private=true&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <!-- Language stats --->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblueness&layout=compact&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoppenheimer&layout=compact&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <br>
   <!-- Visits badge --->
-  <a href="https://github.com/theblueness" target="_blank">
-    <img alt="Visits" src="https://badges.pufler.dev/visits/theblueness/theblueness?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
+  <a href="https://github.com/jonathanoppenheimer" target="_blank">
+    <img alt="Visits" src="https://badges.pufler.dev/visits/jonathanoppenheimer/jonathanoppenheimer?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
   </a>
   <!-- Last updated badge --->
-  <a href="https://github.com/theblueness/theblueness" target="_blank">
-     <img alt="Last updated" src="https://img.shields.io/github/last-commit/theblueness/theblueness?label=profile%20updated&style=flat-square">
+  <a href="https://github.com/jonathanoppenheimer/jonathanoppenheimer" target="_blank">
+     <img alt="Last updated" src="https://img.shields.io/github/last-commit/jonathanoppenheimer/jonathanoppenheimer?label=profile%20updated&style=flat-square">
   </a>
   <!-- Repos badge --->
-  <a href="https://github.com/TheBlueness?tab=repositories">
-    <img alt="Repository count" src="https://badges.pufler.dev/repos/theblueness?style=flat-square">
+  <a href="https://github.com/jonathanoppenheimer?tab=repositories">
+    <img alt="Repository count" src="https://badges.pufler.dev/repos/jonathanoppenheimer?style=flat-square">
   </a>
    <!-- Years badge --->
   <a href="http://octocatday.com/">
-    <img alt="Account age" src="https://badges.pufler.dev/years/theblueness?style=flat-square">
+    <img alt="Account age" src="https://badges.pufler.dev/years/jonathanoppenheimer?style=flat-square">
   </a>
 </p>
 
