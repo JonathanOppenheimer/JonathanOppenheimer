@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan Oppenheimer 👋
 
-I'll be a first year [computer science](https://www.cs.purdue.edu/) student at Purdue University in the Fall.
+I'm a freshman studying [computer science](https://www.cs.purdue.edu/) at Purdue University.
 
 - 🏠 I’m currently living in Virginia, USA
 - 🌱 I’m currently learning about [something]
