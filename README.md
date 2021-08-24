@@ -1,9 +1,9 @@
 ### Hi there, I'm Jonathan Oppenheimer 👋
 
-I'm a freshman studying [computer science](https://www.cs.purdue.edu/) at Purdue University.
+I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/) at Purdue University.
 
 - 🏠 I’m currently living in Virginia, USA
-- 🌱 I’m currently learning about [something]
+- 🌱 I’m currently studying [Object-Oriented Programming](https://selfservice.mypurdue.purdue.edu/prod/bzwsrch.p_catalog_detail?term=202210&subject=CS&cnbr=18000&enhanced=Y)
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 📫 How to contact me: Use any of the badges below - I should reply! 
 
