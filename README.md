@@ -1,13 +1,8 @@
 ### Hi there, I'm Jonathan Oppenheimer 👋
 
-I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/) at Purdue University.
+I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/) at Purdue University in West Lafayette, Indiana. I’m currently studying [Object-Oriented Programming](https://selfservice.mypurdue.purdue.edu/prod/bzwsrch.p_catalog_detail?term=202210&subject=CS&cnbr=18000&enhanced=Y). If you want to get in contact with me, please use any of the badges listed below:
 
-- 🏠 I’m currently living in Virginia, USA
-- 🌱 I’m currently studying [Object-Oriented Programming](https://selfservice.mypurdue.purdue.edu/prod/bzwsrch.p_catalog_detail?term=202210&subject=CS&cnbr=18000&enhanced=Y)
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 📫 How to contact me: Use any of the badges below - I should reply! 
 
-<h2 align="center">📡 Accounts</h2>
 
 <p align="center">
   <!-- GitHub badge --->
@@ -47,8 +42,6 @@ I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/)
     <img alt="steam" src="https://img.shields.io/badge/-steam-000000?style=flat-square&logo=steam&logoColor=white">
   </a> 
 </p>
-
-<h2 align="center">📊 Stats</h2>
 
 <p align="center">
   <!-- User stats badge --->
