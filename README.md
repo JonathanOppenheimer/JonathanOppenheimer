@@ -27,14 +27,15 @@ I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/)
   </a>
 
 
-<p align="center">
+
+<div align="center">
   <!-- User stats badge --->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=jonathanoppenheimer&count_private=true&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img align=center alt="User stats" src="github-metrics.svg" height="300">
   </a>
   <!-- Language stats --->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoppenheimer&layout=compact&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img align=center alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoppenheimer&layout=compact&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <br>
   <!-- Visits badge --->
@@ -53,7 +54,7 @@ I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/)
   <a href="http://octocatday.com/">
     <img alt="Account age" src="https://badges.pufler.dev/years/jonathanoppenheimer?style=flat-square">
   </a>
-</p>
+</div>
 
 <hr>
 
