@@ -35,7 +35,11 @@ I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/)
   </a>
   <!-- Language stats --->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=center alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoppenheimer&layout=compact&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img align=center alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoppenheimer&hide=hide=jupyter%20notebook&langs_count=8&layout=compact&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+  
   </a>
   <br>
   <!-- Visits badge --->
