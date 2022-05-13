@@ -1,8 +1,8 @@
 ### Hi there, I'm Jonathan Oppenheimer 👋
 
-I'm currently a freshman studying [computer science](https://www.cs.purdue.edu/) at Purdue University in West Lafayette, Indiana. Right now, I’m learning how to [program in C](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs240.html). If you want to get in contact with me, please use any of the badges listed below. Additionally, my resume is available [here](https://github.com/JonathanOppenheimer/jonathanoppenheimer.wtf/blob/master/static/resume.pdf). 
+I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/) at Purdue University in West Lafayette, Indiana. Right now, I’m learning  about [data structures and algorithms](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs251.html) and [computer architecture](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs250.html). If you want to get in contact with me, please use any of the badges listed below. Additionally, my resume is available [here](https://github.com/JonathanOppenheimer/jonathanoppenheimer.wtf/blob/master/static/resume.pdf). 
 
-
+*please note my resume is currently out of date as I work this summer*
 
 <p align="center">
   <!-- GitHub badge --->
