@@ -5,7 +5,7 @@ I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/
 <p align="center">
   <!-- GitHub badge --->
   <a href="https://github.com/jonathanoppenheimer" target="_blank">
-    <img alt="github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=Plex&logoColor=white">
+    <img alt="github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=GitHub&logoColor=white">
   </a> 
   <!-- Outlook badge --->
   <a href="mailto:joppenhe@purdue.edu" target="_blank">
@@ -37,20 +37,10 @@ I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/
   </a>
   <br>
   <!-- Visits badge --->
-  <a href="https://github.com/jonathanoppenheimer" target="_blank">
-    <img alt="Visits" src="https://badges.pufler.dev/visits/jonathanoppenheimer/jonathanoppenheimer?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
-  </a>
+<img width='100' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJonathanOppenheimer1212%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   <!-- Last updated badge --->
   <a href="https://github.com/jonathanoppenheimer/jonathanoppenheimer" target="_blank">
      <img alt="Last updated" src="https://img.shields.io/github/last-commit/jonathanoppenheimer/jonathanoppenheimer?label=profile%20updated&style=flat-square">
-  </a>
-  <!-- Repos badge --->
-  <a href="https://github.com/jonathanoppenheimer?tab=repositories">
-    <img alt="Repository count" src="https://badges.pufler.dev/repos/jonathanoppenheimer?style=flat-square">
-  </a>
-   <!-- Years badge --->
-  <a href="http://octocatday.com/">
-    <img alt="Account age" src="https://badges.pufler.dev/years/jonathanoppenheimer?style=flat-square">
   </a>
 </div>
 
