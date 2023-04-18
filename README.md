@@ -24,7 +24,8 @@ I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/
     <img alt="spotify" src="https://img.shields.io/badge/-spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white">
   </a>
   <br>
-  <a href="https://github.com/JonathanOppenheimer/">
+  <!-- Stats --->
+  <a href="https://github.com/JonathanOppenheimer/github-stats">
     <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
     <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
