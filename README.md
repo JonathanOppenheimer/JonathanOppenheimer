@@ -23,17 +23,10 @@ I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/
   <a href="https://open.spotify.com/user/147infiniti" target="_blank">
     <img alt="spotify" src="https://img.shields.io/badge/-spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white">
   </a>
-
-
-
-<div align="center">
-  <!-- User stats badge --->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=center alt="User stats" src="github-metrics.svg" height="300">
-  </a>
-  <!-- Language stats --->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=center alt="Language stats" src="https://github-readme-stats-jonathanoppenheimer.vercel.app/api/top-langs/?username=jonathanoppenheimer&count_private=true&hide=jupyter%20notebook,html,css&langs_count=10&layout=compact&include_all_commits=true&bg_color=0d1117&text_color=FFF&border_color=444" height="210">
+  <br>
+  <a href="https://github.com/JonathanOppenheimer/">
+    <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg" />
+    <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg" />
   </a>
   <br>
   <!-- Visits badge --->
