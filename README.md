@@ -1,6 +1,6 @@
-### Hi there, I'm Jonathan Oppenheimer 👋
+### Hello! I'm Jonathan Oppenheimer
 
-I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/) at Purdue University in West Lafayette, Indiana. Right now, I’m learning  about [Systems Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html) and [Linear Algebra](https://www.math.purdue.edu/academic/courses/semester/202320/ma26500/). If you want to get in contact with me, please use any of the badges listed below. Additionally, my resume is available [here](https://github.com/JonathanOppenheimer/jonathanoppenheimer.wtf/blob/master/static/resume.pdf). 
+I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/) at Purdue University in West Lafayette, Indiana. Right now, I’m learning about [Systems Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html) and [Linear Algebra](https://www.math.purdue.edu/academic/courses/semester/202320/ma26500/). If you want to get in contact with me, please use any of the badges listed below. Additionally, my resume is available [here](https://github.com/JonathanOppenheimer/jonathanoppenheimer.wtf/blob/master/static/resume.pdf).
 
 <p align="center">
   <!-- GitHub badge --->
@@ -24,9 +24,17 @@ I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/
     <img alt="spotify" src="https://img.shields.io/badge/-spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white">
   </a>
   <br>
-  <a href="https://github.com/JonathanOppenheimer/">
-    <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg" />
-    <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg" />
+  <a href="https://github.com/JonathanOppenheimer/github-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg&theme=dark">
+      <img alt="Shows Jonathan Oppenheimer's GitHub Stats." src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg&theme=default">
+    </picture>
+  </a>
+  <a href="https://github.com/JonathanOppenheimer/github-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg&theme=dark">
+      <img alt="Shows Jonathan Oppenheimer's GitHub Stats." src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg&theme=default">
+    </picture>
   </a>
   <br>
   <!-- Visits badge --->
@@ -36,7 +44,3 @@ I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/
      <img alt="Last updated" src="https://img.shields.io/github/last-commit/jonathanoppenheimer/jonathanoppenheimer?label=profile%20updated&style=flat-square">
   </a>
 </div>
-
-<hr>
-
-This readme was created using resources from [Awesome GitHub Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme). Check it out! 
