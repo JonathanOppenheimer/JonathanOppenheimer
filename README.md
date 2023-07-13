@@ -1,6 +1,6 @@
 ### Hello! I'm Jonathan Oppenheimer
 
-I'm currently a sophomore studying [computer science](https://www.cs.purdue.edu/) at Purdue University in West Lafayette, Indiana. Right now, I’m learning about [Systems Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html) and [Linear Algebra](https://www.math.purdue.edu/academic/courses/semester/202320/ma26500/). If you want to get in contact with me, please use any of the badges listed below. Additionally, my resume is available [here](https://github.com/JonathanOppenheimer/jonathanoppenheimer.wtf/blob/master/static/resume.pdf).
+I'm currently a junior studying [computer science](https://www.cs.purdue.edu/), with a focus on Systems Programming and Security at Purdue University in West Lafayette, Indiana. Right now, I’m learning about [Compilers](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs352.html) and [Cryptography](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs355.html). In the past, I've worked at NASA's [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) and [Space Ground System Solutions](https://www.sgss.com/index.html). If you want to get in contact with me, please use any of the badges listed below. Additionally, my resume is available [here](https://github.com/JonathanOppenheimer/jonathanoppenheimer.wtf/blob/master/static/resume.pdf).
 
 <p align="center">
   <!-- GitHub badge --->
