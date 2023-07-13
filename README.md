@@ -24,17 +24,10 @@ I'm currently a junior studying [computer science](https://www.cs.purdue.edu/), 
     <img alt="spotify" src="https://img.shields.io/badge/-spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white">
   </a>
   <br>
+  <!-- Stats --->
   <a href="https://github.com/JonathanOppenheimer/github-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg&theme=dark">
-      <img alt="Shows Jonathan Oppenheimer's GitHub Stats." src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg&theme=default">
-    </picture>
-  </a>
-  <a href="https://github.com/JonathanOppenheimer/github-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg&theme=dark">
-      <img alt="Shows Jonathan Oppenheimer's GitHub Stats." src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg&theme=default">
-    </picture>
+    <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
   <br>
   <!-- Visits badge --->
