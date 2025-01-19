@@ -1,6 +1,6 @@
-### Hello! I'm Jonathan Oppenheimer
+### hi! 
 
-I'm currently a senior studying [computer science](https://www.cs.purdue.edu/), with a focus on Systems Programming and Security at Purdue University in West Lafayette, Indiana. Right now, I’m learning about [Operating Systems](https://www.cs.purdue.edu/homes/cs354/) and [Artificial Intelligence](https://cs.purdue.edu/homes/yexiang/courses/24fall-cs471/index.html). In the past, I've worked at [Cisco](https://www.cisco.com/),  NASA's [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) and [Space Ground System Solutions](https://www.sgss.com/index.html). If you want to get in contact with me, please use any of the badges listed below. Additionally, my resume is available [here](https://github.com/JonathanOppenheimer/jonathanoppenheimer.com/blob/master/static/jonathan_oppenheimer_resume.pdf).
+my name is jonathan oppenheimer. i'm currently a senior studying computer science at purdue university, with a focus in security. in the past i've worked on federated data storage on <a href="https://www.rcac.purdue.edu/" targe="blank">hpc</a>, an ai-driven analysis bot for <a href="https://www.cisco.com/" target="blank">cisco</a>, and architected data pipelines for the deep space network at for nasa's <a href="https://www.jpl.nasa.gov/" target="blank">jet propulsion laboratory</a>. if you'd like to get in contact with me, please use any of the buttons below. 
 
 <p align="center">
   <!-- GitHub badge --->
