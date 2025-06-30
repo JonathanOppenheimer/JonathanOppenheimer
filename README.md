@@ -1,6 +1,6 @@
-### hi! 
+### Hi! 
 
-my name is jonathan oppenheimer. i'm currently a senior studying computer science at purdue university, with a focus in security. in the past i've worked on federated data storage on <a href="https://www.rcac.purdue.edu/" targe="blank">hpc</a>, an ai-driven analysis bot for <a href="https://www.cisco.com/" target="blank">cisco</a>, and architected data pipelines for the deep space network at for nasa's <a href="https://www.jpl.nasa.gov/" target="blank">jet propulsion laboratory</a>. if you'd like to get in contact with me, please use any of the buttons below. 
+My name is Jonathan Oppenheimer. I'm currently a Software Engineer at [Ava Labs](https://github.com/ava-labs). I studied CS at Purdue University, with a concentration in security. In the past I've worked on federated data storage on <a href="https://www.rcac.purdue.edu/" targe="blank">HPC</a>, an ai-driven analysis bot for <a href="https://www.cisco.com/" target="blank">Cisco</a>, and architected data pipelines for the Deep Space Network at NASA's <a href="https://www.jpl.nasa.gov/" target="blank">Jet Propulsion Laboratory</a>. If you'd like to get in contact with me, please use any of the buttons below. 
 
 <p align="center">
   <!-- GitHub badge --->
