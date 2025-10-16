@@ -27,11 +27,9 @@ My name is Jonathan Oppenheimer. I'm currently a Software Engineer at [Ava Labs]
   <!-- Stats --->
   <a href="https://github.com/JonathanOppenheimer/github-stats">
     <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    <!-- <img src="https://github.com/JonathanOppenheimer/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> --->
   </a>
-  <br>
-  <!-- Visits badge --->
-<img width='100' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJonathanOppenheimer1212%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <br> 
   <!-- Last updated badge --->
   <a href="https://github.com/jonathanoppenheimer/jonathanoppenheimer" target="_blank">
      <img alt="Last updated" src="https://img.shields.io/github/last-commit/jonathanoppenheimer/jonathanoppenheimer?label=profile%20updated&style=flat-square">
